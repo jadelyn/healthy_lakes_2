@@ -584,7 +584,7 @@ body {
 	position: absolute;
 	right: -30px;
 	top: -30px;
-	font-family: impact;
+	font-family: MontSerrat;
 	font-size: 1.5em;
 	text-align: center;
 	cursor: pointer;
@@ -601,8 +601,8 @@ body {
 	border-radius: 25px;
 	border: 3px solid #666;
 	box-shadow: 4px 4px 10px #FFF;
-	font-family: impact;
-	font-size: 2em;
+	font-family: MontSerrat;
+	font-size: 1.5em;
 	color: #333;
 	text-align: center;
 }
@@ -669,12 +669,13 @@ body {
 	width: 650px;
 	height: auto;
 	text-align: center;
-	font-family: george;
+	font-family: MontSerrat;
 	font-size: 2em;
 	font-style: bold;
 	position: relative;
 	margin: auto;
 	padding: 10px;
+	  font-weight: bolder;
 }
 
 .pop-up .popup-image {
@@ -690,7 +691,7 @@ body {
 	width: 600px;
 	height: auto;
 	text-align: center;
-	font-family: george;
+	font-family: MontSerrat;
 	font-size: 1.5em;
 	font-style: bold;
 	position: relative;
@@ -702,9 +703,10 @@ body {
 	width: 400px;
 	height: auto;
 	display: block;
-	font-family: george;
+	font-family: MontSerrat;
 	font-size: 1.3em;
-	font-weight:bold;
+	 font-style: italic;
+	
 	position: relative;
 	margin: auto;
 	color: #000;
@@ -780,7 +782,7 @@ body {
 	margin-top: 7px;
 	display: block;
 	width: auto;
-	font-family: george;
+	font-family: MontSerrat;
 	font-size: 1em;
 	font-style: normal;
 	color: #FFF;
